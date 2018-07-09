@@ -1,11 +1,11 @@
 # Simple-Game
 This project and its files are only property of Antoni Barrios (abarriost3) and it is not permited to modify,
-or to use this code; with exception of the SuperRandom.cs file. \n
+or to use this code; with exception of the SuperRandom.cs file.
 
 
 
 
-I Tried to program a simple RPG game in console for 2 or 3 days, because I just wanted to code, and the result was this. (Not finished) \n \n
+I Tried to program a simple RPG game in console for 2 or 3 days, because I just wanted to code, and the result was this. (Not finished)
 
 
 In this "game" you can attack an enemy and defeat it, but if it defeats you; then you lose the game and the screen closes.
